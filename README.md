@@ -1,0 +1,1 @@
+This is a Drum Kit website which I have created after learning the advanced concepts of DOM and JavaScript. The way this website works is that it contains a number of keys that represent different drums in a typical drumset. When you click on any of these buttons, you will get the corresponding sound of the drum and in addition you can also use the keys on the keyboard.
